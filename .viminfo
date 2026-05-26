@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1779803187,,"wq"
+|2,0,1779817577,,"wq"
 :wq]
 |2,0,1779178659,,"wq]"
 
@@ -42,28 +42,218 @@ $
 |3,0,1,1,1,0,1778782571,""
 
 # File marks:
-'0  1  0  ~/operator.sh
-|4,48,1,0,1779805950,"~/operator.sh"
-'1  2  31  ~/operator.sh
-|4,49,2,31,1779803187,"~/operator.sh"
-'2  2  31  ~/operator.sh
-|4,50,2,31,1779803187,"~/operator.sh"
-'3  2  31  ~/operator.sh
-|4,51,2,31,1779803127,"~/operator.sh"
-'4  2  31  ~/operator.sh
-|4,52,2,31,1779803127,"~/operator.sh"
-'5  11  0  ~/operator.sh
-|4,53,11,0,1779803076,"~/operator.sh"
-'6  11  0  ~/operator.sh
-|4,54,11,0,1779803076,"~/operator.sh"
-'7  11  0  ~/operator.sh
-|4,55,11,0,1779803076,"~/operator.sh"
-'8  11  0  ~/operator.sh
-|4,56,11,0,1779803076,"~/operator.sh"
-'9  11  0  ~/operator.sh
-|4,57,11,0,1779803076,"~/operator.sh"
+'0  14  1  ~/operation_gt.sh
+|4,48,14,1,1779817577,"~/operation_gt.sh"
+'1  5  0  ~/operator_eq.sh
+|4,49,5,0,1779817502,"~/operator_eq.sh"
+'2  1  181  ~/operator_eq.sh
+|4,50,1,181,1779817455,"~/operator_eq.sh"
+'3  9  1  ~/operator_eq.sh
+|4,51,9,1,1779817455,"~/operator_eq.sh"
+'4  1  169  ~/operator_eq.sh
+|4,52,1,169,1779817340,"~/operator_eq.sh"
+'5  1  169  ~/operator_eq.sh
+|4,53,1,169,1779817340,"~/operator_eq.sh"
+'6  8  17  ~/operator_eq.sh
+|4,54,8,17,1779817340,"~/operator_eq.sh"
+'7  8  17  ~/operator_eq.sh
+|4,55,8,17,1779817340,"~/operator_eq.sh"
+'8  1  87  ~/operator_eq.sh
+|4,56,1,87,1779817186,"~/operator_eq.sh"
+'9  1  87  ~/operator_eq.sh
+|4,57,1,87,1779817186,"~/operator_eq.sh"
 
 # Jumplist (newest first):
+-'  14  1  ~/operation_gt.sh
+|4,39,14,1,1779817577,"~/operation_gt.sh"
+-'  1  0  ~/operation_gt.sh
+|4,39,1,0,1779817537,"~/operation_gt.sh"
+-'  5  0  ~/operator_eq.sh
+|4,39,5,0,1779817502,"~/operator_eq.sh"
+-'  5  0  ~/operator_eq.sh
+|4,39,5,0,1779817502,"~/operator_eq.sh"
+-'  1  181  ~/operator_eq.sh
+|4,39,1,181,1779817467,"~/operator_eq.sh"
+-'  1  181  ~/operator_eq.sh
+|4,39,1,181,1779817467,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817455,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817455,"~/operator_eq.sh"
+-'  8  17  ~/operator_eq.sh
+|4,39,8,17,1779817349,"~/operator_eq.sh"
+-'  8  17  ~/operator_eq.sh
+|4,39,8,17,1779817349,"~/operator_eq.sh"
+-'  8  17  ~/operator_eq.sh
+|4,39,8,17,1779817340,"~/operator_eq.sh"
+-'  8  17  ~/operator_eq.sh
+|4,39,8,17,1779817340,"~/operator_eq.sh"
+-'  4  4  ~/operator_eq.sh
+|4,39,4,4,1779817203,"~/operator_eq.sh"
+-'  4  4  ~/operator_eq.sh
+|4,39,4,4,1779817203,"~/operator_eq.sh"
+-'  4  4  ~/operator_eq.sh
+|4,39,4,4,1779817203,"~/operator_eq.sh"
+-'  4  4  ~/operator_eq.sh
+|4,39,4,4,1779817203,"~/operator_eq.sh"
+-'  4  4  ~/operator_eq.sh
+|4,39,4,4,1779817186,"~/operator_eq.sh"
+-'  4  4  ~/operator_eq.sh
+|4,39,4,4,1779817186,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817093,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817093,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817093,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817093,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817030,"~/operator_eq.sh"
+-'  9  1  ~/operator_eq.sh
+|4,39,9,1,1779817030,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator_eq.sh
+|4,39,1,0,1779816848,"~/operator_eq.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
 -'  1  0  ~/operator.sh
 |4,39,1,0,1779805950,"~/operator.sh"
 -'  2  31  ~/operator.sh
@@ -71,201 +261,39 @@ $
 -'  2  31  ~/operator.sh
 |4,39,2,31,1779803187,"~/operator.sh"
 -'  2  31  ~/operator.sh
-|4,39,2,31,1779803127,"~/operator.sh"
--'  11  0  ~/operator.sh
-|4,39,11,0,1779803088,"~/operator.sh"
--'  11  0  ~/operator.sh
-|4,39,11,0,1779803088,"~/operator.sh"
--'  11  0  ~/operator.sh
-|4,39,11,0,1779803088,"~/operator.sh"
--'  11  0  ~/operator.sh
-|4,39,11,0,1779803076,"~/operator.sh"
--'  4  16  ~/operator.sh
-|4,39,4,16,1779802969,"~/operator.sh"
--'  4  16  ~/operator.sh
-|4,39,4,16,1779802969,"~/operator.sh"
--'  4  16  ~/operator.sh
-|4,39,4,16,1779802969,"~/operator.sh"
--'  4  16  ~/operator.sh
-|4,39,4,16,1779802969,"~/operator.sh"
--'  4  16  ~/operator.sh
-|4,39,4,16,1779802952,"~/operator.sh"
--'  3  11  ~/operator.sh
-|4,39,3,11,1779802876,"~/operator.sh"
--'  3  11  ~/operator.sh
-|4,39,3,11,1779802876,"~/operator.sh"
--'  3  11  ~/operator.sh
-|4,39,3,11,1779802876,"~/operator.sh"
--'  3  11  ~/operator.sh
-|4,39,3,11,1779802876,"~/operator.sh"
--'  3  11  ~/operator.sh
-|4,39,3,11,1779802876,"~/operator.sh"
--'  9  1  ~/operator.sh
-|4,39,9,1,1779802799,"~/operator.sh"
--'  8  1  ~/operator.sh
-|4,39,8,1,1779802799,"~/operator.sh"
--'  9  1  ~/operator.sh
-|4,39,9,1,1779802799,"~/operator.sh"
--'  8  1  ~/operator.sh
-|4,39,8,1,1779802799,"~/operator.sh"
--'  9  1  ~/operator.sh
-|4,39,9,1,1779802799,"~/operator.sh"
--'  8  1  ~/operator.sh
-|4,39,8,1,1779802799,"~/operator.sh"
--'  9  1  ~/operator.sh
-|4,39,9,1,1779802799,"~/operator.sh"
--'  8  1  ~/operator.sh
-|4,39,8,1,1779802799,"~/operator.sh"
--'  9  1  ~/operator.sh
-|4,39,9,1,1779802799,"~/operator.sh"
--'  8  1  ~/operator.sh
-|4,39,8,1,1779802799,"~/operator.sh"
--'  8  1  ~/operator.sh
-|4,39,8,1,1779802710,"~/operator.sh"
--'  1  0  ~/operator.sh
-|4,39,1,0,1779802570,"~/operator.sh"
--'  1  0  ~/operator.sh
-|4,39,1,0,1779802570,"~/operator.sh"
--'  1  0  ~/operator.sh
-|4,39,1,0,1779802570,"~/operator.sh"
--'  1  0  ~/operator.sh
-|4,39,1,0,1779802570,"~/operator.sh"
--'  1  0  ~/operator.sh
-|4,39,1,0,1779802570,"~/operator.sh"
--'  1  0  ~/operator.sh
-|4,39,1,0,1779802570,"~/operator.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
--'  4  2  ~/assign.sh
-|4,39,4,2,1779798855,"~/assign.sh"
+|4,39,2,31,1779803187,"~/operator.sh"
+-'  2  31  ~/operator.sh
+|4,39,2,31,1779803187,"~/operator.sh"
 
 # History of marks within files (newest to oldest):
+
+> ~/operation_gt.sh
+	*	1779817562	0
+	"	14	1
+	^	14	2
+	.	14	1
+	+	14	1
+
+> ~/operator_eq.sh
+	*	1779817499	0
+	"	5	0
+	^	5	0
+	.	6	0
+	+	1	102
+	+	1	152
+	+	1	196
+	+	1	181
+	+	1	46
+	+	1	78
+	+	1	95
+	+	1	132
+	+	1	169
+	+	1	399
+	+	1	83
+	+	1	180
+	+	13	0
+	+	12	0
+	+	6	0
 
 > ~/operator.sh
 	*	1779805950	0
