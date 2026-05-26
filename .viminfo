@@ -42,28 +42,32 @@ $
 |3,0,1,1,1,0,1778782571,""
 
 # File marks:
-'0  2  31  ~/operator.sh
-|4,48,2,31,1779803187,"~/operator.sh"
+'0  1  0  ~/operator.sh
+|4,48,1,0,1779805950,"~/operator.sh"
 '1  2  31  ~/operator.sh
-|4,49,2,31,1779803127,"~/operator.sh"
-'2  11  0  ~/operator.sh
-|4,50,11,0,1779803076,"~/operator.sh"
-'3  11  0  ~/operator.sh
-|4,51,11,0,1779803076,"~/operator.sh"
-'4  11  0  ~/operator.sh
-|4,52,11,0,1779803076,"~/operator.sh"
+|4,49,2,31,1779803187,"~/operator.sh"
+'2  2  31  ~/operator.sh
+|4,50,2,31,1779803187,"~/operator.sh"
+'3  2  31  ~/operator.sh
+|4,51,2,31,1779803127,"~/operator.sh"
+'4  2  31  ~/operator.sh
+|4,52,2,31,1779803127,"~/operator.sh"
 '5  11  0  ~/operator.sh
 |4,53,11,0,1779803076,"~/operator.sh"
-'6  4  16  ~/operator.sh
-|4,54,4,16,1779802952,"~/operator.sh"
-'7  4  16  ~/operator.sh
-|4,55,4,16,1779802952,"~/operator.sh"
-'8  4  16  ~/operator.sh
-|4,56,4,16,1779802952,"~/operator.sh"
-'9  4  16  ~/operator.sh
-|4,57,4,16,1779802952,"~/operator.sh"
+'6  11  0  ~/operator.sh
+|4,54,11,0,1779803076,"~/operator.sh"
+'7  11  0  ~/operator.sh
+|4,55,11,0,1779803076,"~/operator.sh"
+'8  11  0  ~/operator.sh
+|4,56,11,0,1779803076,"~/operator.sh"
+'9  11  0  ~/operator.sh
+|4,57,11,0,1779803076,"~/operator.sh"
 
 # Jumplist (newest first):
+-'  1  0  ~/operator.sh
+|4,39,1,0,1779805950,"~/operator.sh"
+-'  2  31  ~/operator.sh
+|4,39,2,31,1779803187,"~/operator.sh"
 -'  2  31  ~/operator.sh
 |4,39,2,31,1779803187,"~/operator.sh"
 -'  2  31  ~/operator.sh
@@ -73,7 +77,11 @@ $
 -'  11  0  ~/operator.sh
 |4,39,11,0,1779803088,"~/operator.sh"
 -'  11  0  ~/operator.sh
+|4,39,11,0,1779803088,"~/operator.sh"
+-'  11  0  ~/operator.sh
 |4,39,11,0,1779803076,"~/operator.sh"
+-'  4  16  ~/operator.sh
+|4,39,4,16,1779802969,"~/operator.sh"
 -'  4  16  ~/operator.sh
 |4,39,4,16,1779802969,"~/operator.sh"
 -'  4  16  ~/operator.sh
@@ -90,6 +98,12 @@ $
 |4,39,3,11,1779802876,"~/operator.sh"
 -'  3  11  ~/operator.sh
 |4,39,3,11,1779802876,"~/operator.sh"
+-'  3  11  ~/operator.sh
+|4,39,3,11,1779802876,"~/operator.sh"
+-'  9  1  ~/operator.sh
+|4,39,9,1,1779802799,"~/operator.sh"
+-'  8  1  ~/operator.sh
+|4,39,8,1,1779802799,"~/operator.sh"
 -'  9  1  ~/operator.sh
 |4,39,9,1,1779802799,"~/operator.sh"
 -'  8  1  ~/operator.sh
@@ -248,28 +262,14 @@ $
 |4,39,4,2,1779798855,"~/assign.sh"
 -'  4  2  ~/assign.sh
 |4,39,4,2,1779798855,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
--'  6  0  ~/assign.sh
-|4,39,6,0,1779798161,"~/assign.sh"
+-'  4  2  ~/assign.sh
+|4,39,4,2,1779798855,"~/assign.sh"
 
 # History of marks within files (newest to oldest):
 
 > ~/operator.sh
-	*	1779803185	0
-	"	2	31
+	*	1779805950	0
+	"	1	0
 	^	2	32
 	.	2	31
 	+	4	12

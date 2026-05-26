@@ -654,3 +654,59 @@ vim assign.sh
 ./assign.sh
 vim assign.sh 
 exit
+ls
+cat first.sh
+clear
+ls
+cat 26-may.sh 
+cat assign.sh 
+vim operator.sh
+./operator.sh
+chmod 700 operator.sh 
+./operator.sh
+vim operator.sh 
+./operator.sh
+vim operator.sh 
+./operator.sh
+vim operator.sh 
+./operator.sh
+vim operator.sh 
+./operator.sh
+clear
+./operator.sh
+vim operator.sh 
+mv operator.sh operation_ge.sh
+ls
+vim operator.sh 
+ls
+clear
+ls
+la -l operator.sh
+ls -l operator.sh
+ls -l
+ls
+cat '=18]'
+rm =\=18\] 
+rm -r =\=18\] 
+rm -r '=18]'
+ls
+clear
+ls -l
+clear
+sudo apt update
+sudo apt install git
+git --version
+git config --global user.name "THAKUR-ROHIT-21"
+git config --global user.email "r7256870923@gmail.com"
+ls
+cd "assign.sh"
+cd create_folder.sh
+cd ./assign.sh
+git init
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin https://github.com/THAKUR-ROHIT-21/Bash-Scripting.git
+git push -u origin main
+git remote add origin https://github.com/THAKUR-ROHIT-21/Bash-Scripting.git
+git push -u origin main
